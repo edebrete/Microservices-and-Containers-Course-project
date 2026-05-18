@@ -1,0 +1,4 @@
+com\example\ui_service\UiController.class
+com\example\ui_service\UiMessageController.class
+com\example\ui_service\UiServiceApplication.class
+com\example\ui_service\UiStreamController.class
